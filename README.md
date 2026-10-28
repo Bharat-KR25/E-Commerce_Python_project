@@ -49,13 +49,13 @@ This project analyses orders from an Indian e-commerce marketplace (December 202
 ## 📊 Power BI Dashboard
 
 **Page 1: Overview**
-![Overview](images/Dashboard_Page1_Overview.png)
+
 
 **Page 2: Pricing, Discounts and Brand Correlation**
-![Pricing](images/Dashboard_Page2_Pricing_Discounts_Brands.png)
+
 
 **Page 3: Rating and Delivery Link**
-![Delivery](images/Dashboard_Page3_Rating_Delivery.png)
+
 
 Every page has year and region slicers. Key DAX measures include Total Orders, Transaction Value, Company Revenue, Average Discount %, On-Time % and Value per Active Day.
 
